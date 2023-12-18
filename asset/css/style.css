@@ -7,6 +7,9 @@ nav {
     justify-content: space-between;
 }
 
+#mail{
+    color: red;
+}
 .logo img {
     height: 50px;
 }
